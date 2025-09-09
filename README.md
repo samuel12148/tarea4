@@ -1,6 +1,5 @@
-# tarea4
 # Descripción
-Este proyecto consiste en tres juegos desarrollados en Python usando la librería Pygame. Cada juego incluye múltiples niveles de dificultad y sistemas de puntuación.
+Este proyecto consiste en tres juegos desarrollados en Python usando la librería Pygame. Cada juego incluye múltiples niveles de dificultad y sistemas de puntuación. Entra a la carpeta de juegos y descarga los tres códigos de python para empezar.
 
 # Juegos Incluidos
 1. Tom y Jerry: Juego de Evasión
@@ -54,4 +53,4 @@ python juego_disparos.py
 
 
 
-Las imágenes están también en el repositorio, pero los juegos pueden funcionar sin imágenes.
+Las imágenes están también en el repositorio para descargar y hacer más visuales los juegos, sin embargo, los juegos pueden funcionar sin imágenes.
