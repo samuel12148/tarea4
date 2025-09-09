@@ -24,33 +24,36 @@ Controles: Flechas para moverse, ESPACIO para disparar
 Características: Diferentes tipos de enemigos, sistema de salud
 
 # Instalación y Configuración
-1.  Crear la carpeta de proyectos
-    mkdir juegos
-    cd juegos
-2.  Crear entorno virtual
+1. Crear la carpeta de proyectos
+
+mkdir juegos
+cd juegos
+    
+2. Crear entorno virtual
 ###  Windows
 python -m venv venv
-
 ### Linux/Mac
 python3 -m venv venv
+
 3. Activar entorno virtual
 ### Windows (CMD)
 venv\Scripts\activate
-
 ### Windows (PowerShell)
 venv\Scripts\Activate.ps1
-
 ### Linux/Mac
 source venv/bin/activate
+
 4. Instalar dependencias
 pip install pygame
 
 # Ejecutar los Juegos
 **Con el entorno virtual activado escribir en la consola**
-python tom_jerry.py
-python juego_recoleccion.py  
-python juego_disparos.py
 
+python tom_jerry.py
+
+python juego_recoleccion.py  
+
+python juego_disparos.py
 
 
 Las imágenes están también en el repositorio para descargar y hacer más visuales los juegos, sin embargo, los juegos pueden funcionar sin imágenes.
