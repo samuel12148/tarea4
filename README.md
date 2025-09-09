@@ -34,7 +34,7 @@ python -m venv venv
 ### Linux/Mac
 python3 -m venv venv
 3. Activar entorno virtual
-# Windows (CMD)
+### Windows (CMD)
 venv\Scripts\activate
 
 ### Windows (PowerShell)
